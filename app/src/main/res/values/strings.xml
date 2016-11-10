@@ -1,0 +1,24 @@
+<resources>
+
+    <string name="app_name">Blackjack</string>
+    <string name="dealer_apos_s_hand">Dealer\'s Hand</string>
+    <string name="card_1">Card 1</string>
+    <string name="card_2">Card 2</string>
+    <string name="card_3">Card 3</string>
+    <string name="card_4">Card 4</string>
+    <string name="stay">Stay</string>
+    <string name="hit">Hit</string>
+    <string name="your_hand">Your Hand</string>
+    <string name="pcard_1">pCard 1</string>
+    <string name="pcard_2">pCard 2</string>
+    <string name="pcard_3">pCard 3</string>
+    <string name="pcard_4">pCard 4</string>
+    <string name="pcard_5">pCard 5</string>
+    <string name="pcard_6">pCard 6</string>
+    <string name="pcard_7">pCard 7</string>
+    <string name="pcard_8">pCard 8</string>
+    <string name="pcard_9">pCard 9</string>
+    <string name="pcard_10">pCard 10</string>
+    <string name="pcard11">pCard11</string>
+    <string name="pcard_12">pCard 12</string>
+</resources>
